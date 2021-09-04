@@ -9,3 +9,4 @@ step3:prediction_3.py(Prediction of data using webcam)
  
 ![gif](https://github.com/TapendraBaduwal/Facial_Recognition_System_1/blob/master/Video-Facial_Recognition.gif)
 
+
